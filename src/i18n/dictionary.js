@@ -1,0 +1,38 @@
+export const dictionary = {
+  en: {
+    translation: {
+      "BMI Calculator": "BMI Calculator",
+      "Calculate": "Calculate",
+      "for adults": "for adults",
+      "Height": "Height",
+      "Healthy weight": "Healthy weight",
+      "Imperial": "Imperial",
+      "Metric": "Metric",
+      "Obesity (class I)": "Obesity (class I)",
+      "Obesity (class II)": "Obesity (class II)",
+      "Obesity (class III)": "Obesity (class III)",
+      "Overweight": "Overweight",
+      "Result": "Result",
+      "Underweight": "Underweight",
+      "Weight": "Weight",
+    },
+  },
+  hu: {
+    translation: {
+      "BMI Calculator": "BMI Kalkulátor",
+      "Calculate": "Kiszámítás",
+      "for adults": "felnőtteknek",
+      "Height": "Magasság",
+      "Healthy weight": "Egészséges súlyú",
+      "Imperial": "Angolszász",
+      "Metric": "Metrikus",
+      "Obesity (class I)": "Elhízott (I. osztály)",
+      "Obesity (class II)": "Elhízott (II. osztály)",
+      "Obesity (class III)": "Elhízott (III. osztály)",
+      "Overweight": "Túlsúlyos",
+      "Result": "Eredmény",
+      "Underweight": "Alulsúlyos",
+      "Weight": "Súly",
+    },
+  },
+};
